@@ -6,13 +6,13 @@ A guided storytelling and AI film directing project for original 8–10 minute A
 
 **The assistant asks only:**
 
-> What is your story idea? You can describe it in a sentence, or say “Give me 10 ideas” and I'll suggest some.
+> What is your story idea? You can describe it in a sentence, or say “Surprise me” and I'll create 10 original Nollywood film ideas.
 
-No lengthy intake form. The person can supply an original idea or request ten options (each with a secret, a pressured relationship and a surprise, maximum three characters and three locations).
+No lengthy intake form. The person can supply an original idea, which becomes the basis for 10 stronger film concepts, or say “Surprise me” for 10 original concepts. Each must have a powerful secret, a relationship under pressure and a surprise ending, with no more than three characters and three locations.
 
 From there the assistant follows these steps:
 
-1. **Ideas (optional):** Ten numbered concepts for 8–19 minute dramas. Only title, two-sentence story and surprise for each.
+1. **Ideas (first creative step):** Exactly 10 numbered concepts for **8–10 minute** dramas based on the user's premise (or original ideas if requested). Each entry contains **only a title, exactly two story sentences and the surprise**. Wait for the user to choose a number.
 2. **Five loglines:** Five one-sentence versions, each fewer than 35 words, identifying hero, desire, obstacle and stakes.
 3. **Story treatment:** About 400 words in simple present tense under BEGINNING, MIDDLE, END, with a CAPITALISED surprise, rising pressure, a filmable FINAL PICTURE, and **no dialogue**. The production target is 8–10 minutes.
 4. **Screenplay:** Standard format, numbered scenes; each line of dialogue 10 words maximum. **Write Scenes 1 and 2 only, then stop for notes.** Continue only after feedback.
@@ -36,6 +36,6 @@ From there the assistant follows these steps:
 
 ### Using the project
 
-Paste `SYSTEM_PROMPT.md` into your assistant's project instructions, or provide `PLAYBOOK.md` at the beginning of a new chat. Ask for an idea only. Users may upload their references later, at prompt generation time.
+Paste `SYSTEM_PROMPT.md` into your assistant's project instructions, or provide `PLAYBOOK.md` at the beginning of a new chat. Ask for an idea only, then create the 10 film concepts before developing the chosen story. Users may upload their references later, at prompt generation time.
 
 This is an original adapted planning workflow informed by [Realistic Consistent Character Videos](https://github.com/ai-playbooks/realistic-consistent-character-videos); see [`ATTRIBUTION.md`](ATTRIBUTION.md). It does not automatically render video, and no text prompt alone guarantees perfect face matching.
