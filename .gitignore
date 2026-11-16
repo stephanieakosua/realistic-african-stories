@@ -1,0 +1,7 @@
+# Avoid accidentally publishing personal/reference image data
+assets/private/
+references/private/
+*.env
+.env*
+.DS_Store
+__pycache__/
